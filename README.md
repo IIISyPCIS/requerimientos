@@ -52,4 +52,3 @@ mi-proyecto/
 1. Copia el `Dockerfile`, `docker-compose.yml`, `docker/entrypoint.sh` y `.dockerignore` del documento de tu tecnología.
 2. Crea tu `.env.example` a partir de [02-archivos-comunes.md](02-archivos-comunes.md).
 3. Sigue [08-despliegue-dokploy.md](08-despliegue-dokploy.md).
-
